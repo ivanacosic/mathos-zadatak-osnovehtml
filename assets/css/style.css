@@ -1,0 +1,75 @@
+*
+{
+box-sizing: border-box;             
+}
+
+body
+{
+
+background-image: url("http://www.walltor.com/images/wallpaper/aero-light-colors-7-20304.jpg");
+font-family:Verdana;
+}
+
+.header
+{
+font-size: 22px;
+background: purple;
+color:black;
+padding:20px;
+}
+
+.container
+{
+ width: 80%;
+  height:100%;
+ margin: 0 auto;
+}
+
+.nav  ul li
+
+{
+ display: inline;
+ padding: 20px;
+ font-weight: bold;
+}
+.aside
+{
+float:right;
+margin: 30px;
+}
+
+.section
+{
+padding:20px;
+}
+.section label, .section input, .section textarea
+{
+width: 50%;
+display:block;
+}
+
+.footer
+{
+ position:absolute;
+   bottom:0;
+  
+   height:0px;
+font-size: 13px;
+}
+
+.velika
+{
+font-size: 24px;
+}
+
+.centar
+{
+text-align: center;
+}
+
+.article
+{
+
+font-family: "Comic Sans MS";
+ 
+ }
